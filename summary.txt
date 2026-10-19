@@ -1,0 +1,25 @@
+About
+A Senior/Lead Frontend (ReactJS) Developer with 10+ years of experience.
+
+- Familiar with the remote-first work culture and the different time zones.
+- Can easily communicate with cross-functional teams in English (Upper Intermediate).
+- Ability to work both independently and as part of a team in a fast-paced environment
+- Figma to code experience.
+- Responsive and Adaptive design experience.
+- Familiar with SEO principles.
+- Proficiency in React.js and Next.js frameworks
+- Understanding of SEO, SSR, and ISR in Next.js environments
+- Familiar with writing Unit Tests, TypeScript, and styled components with SASS.
+- Experience with GraphQL
+- Created some side projects with Flutter, React Native, and NodeJS
+- Developed and managed many projects from scratch to production using Azure DevOps, Jira, Bitbucket, Docker Container, Ubuntu, and Nginx tools.
+- Familiarity with version control tools such as Git
+
+Here are my skills by keyword.
+
+ReactJS, JavaScript, TypeScript, Redux, Redux Toolkit, HTML5,  SASS/LESS, Webpack,  RESTful API, jQuery, MSSQL, MYSQL, GraphQL, SignalR, NextJS, Git
+
+Links
+https://github.com/mehmetyilmaz001
+https://stackoverflow.com/users/3337076/mehmet
+https://www.hackerrank.com/mehmetyilmaz001
